@@ -188,7 +188,7 @@
 					},
 					"requires" : 
 					[ 
-						"special1"
+						"castle"
 					],
 					"id" : 48, 
 					"upgrades" : "dwellingUpLvl5"
@@ -227,7 +227,7 @@
 					},
 					"requires" : 
 					[
-						"dwellingUp2Lvl6"
+						"allOf", ["dwellingUp2Lvl5"], [ "dwellingUpLvl6" ]
 					],
 					"id" : 50,
 					"upgrades" : "dwellingUpLvl7"

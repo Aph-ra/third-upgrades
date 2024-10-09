@@ -210,10 +210,7 @@
 						"gold":	6000
 					},
 					"id" : 48, 
-					"requires" : 
-					[
-						"dwellingUp2Lvl4"
-					],
+					"requires" : [ "allOf", ["castle"], [ "dwellingUp2Lvl4" ] ],
 					"upgrades" : "dwellingUpLvl5"
 				},
 				"dwellingUp2Lvl6": 

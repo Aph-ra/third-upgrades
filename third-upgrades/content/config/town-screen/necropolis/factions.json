@@ -5,7 +5,7 @@
 		{
 			"structures" :
 			{
-				"extraCapitol": { "animation" : "town-screen/necropolis/TBNCEXT5.def", "x" : 475, "y" : 257, "z" : 2 },
+				"extraCapitol": { "animation" : "town-screen/necropolis/TBNCEXT5.def", "x" : 475, "y" : 257, "z" : 10 },
 				"horde2": { "animation" : "TBNCHRD2.def", "x" : 64,  "y" : 222, "z" : 4, "border" : "TONSKE2H.bmp", "area" : "TZNSKE2H.bmp", "hidden" : true, "builds" : "horde1Upgr" },
 				"dwellingUp2Lvl1": { "animation" : "TBNCUP_0.def", "x" : 64,  "y" : 222, "z" : 4, "border" : "TONSKEL2.bmp", "area" : "TZNSKEL2.bmp" },
 				"dwellingUp2Lvl2": { "animation" : "TBNCUP_1.def", "x" : 498, "y" : 224, "border" : "TONZOMB2.bmp", "area" : "TZNZOMB2.bmp" },

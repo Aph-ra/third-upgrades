@@ -1,28 +1,26 @@
 {
+	"name" : "Third Upgrades Mod",
 	"author" : "VMaiko, avatar",
 	"contact" : "http://heroescommunity.com/viewthread.php3?TID=46241",
-	"description" : "In every nine standard H3 town, you have opportunity to upgrade creatures once more. Mod is based at ERA's Third Upgrades Mod v2.17.0. Compatibility patches with Tides of War and HotA Conflux changes will be added later.",
+	"description" : "In every nine standard H3 town, you have opportunity to upgrade creatures once more. Mod is based at ERA's Third Upgrades Mod v2.17.0.",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"modType" : "Mechanics",
-	"name" : "New Upgrades Mod",
-	"version" : "1.0.2",
+	"version" : "1.1.0",
 	"compatibility" :
 	{
-		"min" : "1.4.0"
+		"min" : "1.5.0"
 	},
 	"changelog" :
     {
 
+		"1.1.0"   : [ "Added ToW and HotA compatibility patches" ],
 		"1.0.2"   : [ "Update to vcmi-1.4 version" ],
 		"1.0.1"   : [ "Fixed Cyclops Emperors shoot ability" ],
 		"1.0.0"   : [ "Initial release" ]
     },	
 	"conflicts" :
 	[
-		"hota.gameBalance",
-		"hota.confluxVaultofAshes",
-		"tides-of-war"
 	],
 	"depends" :
 	[
