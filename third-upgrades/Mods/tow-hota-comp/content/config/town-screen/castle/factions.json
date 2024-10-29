@@ -72,11 +72,9 @@
 					},
 					"requires" : 
 					[ 
-						"allOf",
-							["horde1Upgr"], 
-							["dwellingUp2Lvl3"]
+						"horde1Upgr"
 					],
-					"upgrades" : "horde1Upgr",
+					"upgrades" : "dwellingUp2Lvl3",
 					"id" : 23,
 					"mode" : "auto"
 				},

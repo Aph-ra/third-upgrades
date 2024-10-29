@@ -64,8 +64,8 @@
 						"gold":	1000
 					},
 					"id" : 22, 
-					"requires" : [ "allOf", ["horde1Upgr"], ["dwellingUp2Lvl1"] ],
-					"upgrades" : "horde1Upgr",
+					"requires" : [ "horde1Upgr" ],
+					"upgrades" : "dwellingUp2Lvl1",
 					"mode" : "auto"
 				},
 				"hordePhoenix": 
@@ -91,8 +91,8 @@
 						"mercury" : 5,
 						"gold":	5000
 					},
-					"upgrades" : "hordePhoenix",
-					"requires" : [ "dwellingUpLvl7" ],
+					"upgrades" : "dwellingUpLvl7",
+					"requires" : [ "hordePhoenix" ],
 					"mode" : "auto",
 					"id" : 25
 				},
@@ -105,8 +105,8 @@
 						"mercury" : 5,
 						"gold":	5000
 					},
-					"upgrades" : "hordePhoenixUpgr",
-					"requires" : [ "dwellingUpLvl7" ],
+					"upgrades" : "dwellingUpLvl7",
+					"requires" : [ "hordePhoenixUpgr" ],
 					"mode" : "auto",
 					"id" : 23
 				},

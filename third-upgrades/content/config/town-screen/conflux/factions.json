@@ -59,8 +59,8 @@
 						"gold":	1000
 					},
 					"id" : 22, 
-					"requires" : [ "allOf", ["horde1Upgr"], ["dwellingUp2Lvl1"] ],
-					"upgrades" : "horde1Upgr",
+					"requires" : [ "horde1Upgr" ],
+					"upgrades" : "dwellingUp2Lvl1",
 					"mode" : "auto"
 				},
 				

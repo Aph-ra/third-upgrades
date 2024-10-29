@@ -114,11 +114,9 @@
 					"id" : 20,
 					"requires" : 
 					[
-						"allOf",
-							["horde1Upgr"],
-							["dwellingUp2Lvl2"]
+						"horde1Upgr"
 					],
-					"upgrades" : "horde1Upgr",
+					"upgrades" : "dwellingUp2Lvl2",
 					"mode" : "auto"
 				},
 				"dwellingUp2Lvl2":
@@ -203,12 +201,9 @@
 					"id" : 23,
 					"requires" : 
 					[
-						"allOf",
-							["horde2Upgr"],
-							["dwellingUp2Lvl5"]
-					],
-								
-					"upgrades" : "horde2Upgr",			
+						"horde2Upgr"
+					],		
+					"upgrades" : "dwellingUp2Lvl5",			
 					"mode" : "auto"
 				},
 				"dwellingUp2Lvl6":
